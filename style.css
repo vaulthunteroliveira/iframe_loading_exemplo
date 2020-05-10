@@ -1,0 +1,10 @@
+iframe {
+    width: 1000px;
+    height: 800px;
+}
+
+.loading {
+    background-image: url('loading.gif');
+    background-position: center center; 
+    background-repeat: no-repeat;    
+}
